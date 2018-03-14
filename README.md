@@ -1,5 +1,4 @@
-# SkylarkDrones_technical_assignment
-Technical Assignment for Software Developer role
+# Images which are 35m from Drone at time of flight
   
 # ***How to use***
 
